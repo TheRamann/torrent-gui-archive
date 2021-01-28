@@ -1,0 +1,33 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=D:\Ramann\Programming And Stuff\torrent-gui\Bin\~Torrent-Gui.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=D:\Ramann\Programming And Stuff\torrent-gui\Bin\~Torrent-Gui_LAYOUT.INF
+.Set RptFileName=D:\Ramann\Programming And Stuff\torrent-gui\Bin\~Torrent-Gui.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+D:\Desktop\Programming and stuff.lnk
+D:\Ramann\Programming And Stuff\torrent-gui\LICENSE
+D:\Ramann\Programming And Stuff\torrent-gui\README.md
+D:\Ramann\Programming And Stuff\torrent-gui\Torrent-Gui.lnk
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\app.pdb
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\app.runtimeconfig.dev.json
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\app.runtimeconfig.json
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\index.js
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\package.json
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\package-lock.json
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\app.deps.json
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\app.dll
+D:\Ramann\Programming And Stuff\torrent-gui\Bin\Torrent-Gui.exe
