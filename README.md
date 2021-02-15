@@ -18,7 +18,9 @@ Well..... it's here
 # Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt = "🖥" width="35px">
 
 Download it from here
-</a>    
+</a>
+<br>
+Note :- The application may be identified as virus by anti-virus, so before installing disable the anti-virus.
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
