@@ -20,7 +20,7 @@ Well..... it's here
 Download it from here
 </a>
 <br>
-Note :- The application may be identified as virus by anti-virus, so before installing disable the anti-virus.
+Note :- The application may be identified as virus by anti-virus. So, disable the anti-virus before installing .
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
