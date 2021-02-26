@@ -22,6 +22,11 @@ Download it from here
 <br>
 Note :- The application may be identified as virus by anti-virus. So, disable the anti-virus before installing .
 
+# Source Codes <img src = "https://cdn.discordapp.com/emojis/619643456310083656.gif?v=1" width = "35 px">
+
+These are the NodeJS source codes, <a href = "https://github.com/TheRamann/torrent-gui-full"> for full source codes click here (includes c#) </a>
+
+
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
 Support the creator here
