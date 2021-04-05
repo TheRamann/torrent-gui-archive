@@ -32,6 +32,7 @@ AntiVirus often creates an error. The error can be easily tackled by disabling B
 <img src = "https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_46_36-Quick%20Heal.png?raw=true">
 <img src = "https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_44_09-Quick%20Heal.png?raw=true">
 <img src = "https://github.com/TheRamann/torrent-gui/blob/main/Md%20Files/2021-04-05%2018_47_50-Quick%20Heal.png?raw=true">
+You can enable Browsing Protection in your AntiVirus after usage
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
