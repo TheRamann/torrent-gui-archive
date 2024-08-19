@@ -1,3 +1,8 @@
+# Newer Version
+
+## https://github.com/TheRamann/easy-torrent-gui
+
+<br><br><br><br><br><br>
 # Torrent-Gui
 
 Ever felt lazy and wanted an app to search torrents itself for you? <br>
